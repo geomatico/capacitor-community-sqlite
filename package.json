@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor-community/sqlite",
-  "version": "4.2.2",
+  "name": "@geomatico/capacitor-community-sqlite",
+  "version": "4.2.2-fix-ncconnection",
   "description": "Community plugin for native & electron SQLite databases",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
